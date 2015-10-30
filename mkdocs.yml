@@ -1,0 +1,10 @@
+site_name: Weasley Docs
+pages:
+- Home: index.md
+- Articles:
+    - CocoaPod: how_to_use_cocoapod.md
+    - JavaWeb: javaweb.md
+    - Reference: 
+        - Component: common_use_components.md
+        - blogs: ios_blogs.md
+- About: about.md
