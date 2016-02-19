@@ -2,27 +2,27 @@ site_name: Weasley Docs
 pages:
 - Home: index.md
 - CodeTime:
-    - JavaWeb: JavaWeb.md
+    - JavaWeb: Java/JavaWeb.md
     - iOS:
-        - CocoaPod: how_to_use_cocoapod.md
-        - Component: common_use_components.md
+        - CocoaPod: iOSReference/how_to_use_cocoapod.md
+        - Component: iOSReference/common_use_components.md
         - blogs: iOSReference/ios_blogs.md
         - Realm: iOSReference/Realm.md
-    - TODOList: iOSReference/ios_todo.md
+        - TODOList: iOSReference/ios_todo.md
     - Tips: 
             - iOSReference/iOSTips.md
             - iOSReference/ios_view_alpha.md
-            - macVPN_divert.md
+            - iOSReference/macVPN_divert.md
             - iOSReference/HowToUseGit.md
 - OutOfWork:
     - Accounting:
-        - accounting/accountingBase_ch1.md
-        - accounting/accountingBase_ch2.md
-        - accounting/accountingBase_ch3.md
+        - OutOfWork/accounting/accountingBase_ch1.md
+        - OutOfWork/accounting/accountingBase_ch2.md
+        - OutOfWork/accounting/accountingBase_ch3.md
     - ReadingThoughts:
-        - 转型之战：传统互企业的互联网机会: traditional_enterprise_in_internet.md
-        - 社交红利: traditional_enterprise_in_internet.md
-        - Zero2One: from0to1.md
+        - 转型之战：传统互企业的互联网机会: OutOfWork/ReadingThoughts/traditional_enterprise_in_internet.md
+        - 社交红利: OutOfWork/ReadingThoughts/traditional_enterprise_in_internet.md
+        - Zero2One: OutOfWork/ReadingThoughts/from0to1.md
 - ETime:
-    - Resources: Superb_English_sites.md
+    - Resources: ETime/Superb_English_sites.md
 - About: about.md
