@@ -1,4 +1,7 @@
-#iOS TODO
-1 封装AFN<br>
-2 封装TableView<br>
-3 MVVM模式<br>
+iOS TODO
+====
+ * 封装AFN
+ * 封装TableView
+ * MVVM模式
+ * 如何在pod上建立一个自己的分支?
+ 
