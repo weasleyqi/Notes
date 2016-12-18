@@ -1,10 +1,11 @@
-#How to use cocoapod<br>
+JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home
 
-get sources: to see my cocoapod sources<br>
-search componentName: to search in cocoapod to see weather cocoapod has this component
+CLASSPAHT=.:$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar
 
-##Use Process
-1. vim Podfile (in the project path) - New Podfile or modify Podfile what style in the Podfile is:(pod "MBProgressHUD")
-2. complete edit, then :wq - save what modified in the Podfile 
-3. pod install --verbose --no-repo-update (install the cocoaPod component in current project)
-4. exit Xcode, and later open workspace to go on some code work
+PATH=$JAVA_HOME/bin:$PATH:
+
+export JAVA_HOME
+
+export CLASSPATH
+
+export PATH
